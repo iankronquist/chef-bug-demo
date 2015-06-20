@@ -122,5 +122,6 @@ prettier if you cat it.
 
 ## License and Authors
 
-Written by Ian Kronquist
+Written by Ian Kronquist.
+
 Licensed under Apache 2 by the OSU Open Source Lab.
